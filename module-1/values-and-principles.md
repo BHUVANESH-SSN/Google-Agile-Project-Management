@@ -42,10 +42,82 @@ Agile teams **balance** both sides of each value, but **prioritize the left** ov
 
 ---
 
-## 💡 Final Thoughts
+
 
 Agile isn't just about speeding up delivery—it's about **building the right thing**, the **right way**, with **the right people**. These values empower teams to deliver high-quality outcomes while adapting to real-world change.
 
-> “While there is value in the items on the right, we value the items on the left more.”
+# 🧭 12 Agile Principles (Grouped by Themes)
 
-Stay tuned for the 12 Agile Principles next, which bring these values to life in day-to-day project practices.
+The **12 Principles** of Agile, established in the **Agile Manifesto (2001)**, guide how teams apply Agile in real-world project management. These principles are grouped into **four practical themes** to make them easier to learn and apply.
+
+---
+
+## 🎯 Theme 1: Value Delivery (5 Principles)
+
+Focuses on **delivering value quickly** and frequently to reduce risk and maximize customer impact.
+
+1. **Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.**
+
+2. **Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.**
+
+3. **Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.**
+
+4. **Working software is the primary measure of progress.**
+
+5. **Simplicity—the art of maximizing the amount of work not done—is essential.**
+
+📝 _Note_: Replace "software" with "deliverables" or "solutions" in non-software industries.
+
+---
+
+## 🤝 Theme 2: Business Collaboration (2 Principles)
+
+Emphasizes close, ongoing collaboration with stakeholders to keep the work aligned with real business needs.
+
+6. **Business people and developers must work together daily throughout the project.**
+
+7. **The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.**
+
+💡 _Tip_: In remote teams, this includes video calls, instant messaging, and shared collaboration tools.
+
+---
+
+## 👥 Theme 3: Team Culture and Dynamics (4 Principles)
+
+Highlights the need for **motivated, empowered, and supported teams** working at a sustainable pace.
+
+8. **Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.**
+
+9. **Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.**
+
+10. **Continuous attention to technical excellence and good design enhances agility.**
+
+11. **The best architectures, requirements, and designs emerge from self-organizing teams.**
+
+📌 _Takeaway_: Trust and autonomy drive high performance in Agile teams.
+
+---
+
+## 🔄 Theme 4: Retrospective and Continuous Improvement (1 Principle)
+
+Encourages regular reflection and learning to improve team processes and performance.
+
+12. **At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.**
+
+🛠 _Tools_: Retrospectives, sprint reviews, and process adjustments.
+
+---
+
+## ✅ Final Thoughts
+
+Agile isn't just a methodology—it's a **mindset**. These principles help teams:
+
+- Deliver value fast  
+- Adapt to change  
+- Collaborate with the business  
+- Create strong, self-driven team cultures  
+- Learn continuously
+
+Keep these principles at the heart of every Agile project to maximize impact and adaptability.
+
+
