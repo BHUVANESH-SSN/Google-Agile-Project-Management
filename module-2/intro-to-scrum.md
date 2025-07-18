@@ -19,10 +19,10 @@
 3. **Adaptation** – Adjust as needed based on inspection outcomes.
 
 ### 💎 Five Scrum Values
-- Commitment
-- Courage
-- Focus
-- Openness
+- Commitment  
+- Courage  
+- Focus  
+- Openness  
 - Respect
 
 ---
