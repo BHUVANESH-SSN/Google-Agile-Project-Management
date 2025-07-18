@@ -1,6 +1,6 @@
 ## Understanding the Product Backlog in Scrum
 
-In this program, we’ve introduced several key project management artifacts—like **project plans**, **statements of work (SOWs)**, and **RACI charts**. Now, we’ll explore one of the most important artifacts of the **Scrum framework**: the **Product Backlog**.
+
 
 ### What Is the Product Backlog?
 
