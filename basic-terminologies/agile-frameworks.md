@@ -93,7 +93,7 @@ It's ideal for teams looking to **adapt quickly**, **deliver often**, and **keep
   - Limit WIP
   - Improve flow
  
-  - # Extreme Programming (XP)
+# Extreme Programming (XP)
 
 **Extreme Programming (XP)** is an Agile software development methodology focused on improving software quality and responsiveness to changing customer requirements.
 
