@@ -68,8 +68,8 @@ Sample entries include:
 ## ✍️ Contributor
 
 **Bhuvanesh S**  
-Email: bhuvaneshcsessn@gmail.com
-LinkedIn: [LinkedIN](https://www.linkedin.com/bhuvanesh-cse)
+-Email: bhuvaneshcsessn@gmail.com
+- [LinkedIN](www.linkedin.com/in/bhuvanesh-cse)
 
 ---
 
