@@ -1,65 +1,82 @@
+# Using Kanban and Scrum Boards in Scrum
 
-# Sprint Retrospective in Scrum
+In the previous section, we discussed the importance of visualizing progress using **burndown charts**. In this video, we explore another essential visual tool used by Scrum teams: the **Kanban board** — often also referred to as a **Scrum board**.
 
-If you've been following this program, you've already learned a lot about **retrospectives**, an essential part of project management—no matter the methodology you follow. In this section, we'll focus on the **fifth and final Scrum event: the Sprint Retrospective**.
-
-## What is the Sprint Retrospective?
-
-The **Sprint Retrospective** is a dedicated meeting—up to **three hours long**—held at the end of each Sprint. Its goal is for the **Scrum Team** to:
-
-- Reflect on how the last Sprint went.
-- Identify what went well and what didn’t.
-- Decide what improvements can be made for the next Sprint.
-
-### Key Reflection Areas:
-
-- **People** – Collaboration and communication.
-- **Processes** – Efficiency and workflow.
-- **Tools** – Technology and systems in use.
-
-**Sample Questions to Discuss:**
-- What improvements were introduced in the last Sprint?
-- Were they effective or not? Why?
-- What should we try in the next Sprint?
-- What unexpected issues did we face?
-- What slowed us down?
+> While "Kanban board" and "Scrum board" have minor differences, they are often used interchangeably in practice.
 
 ---
 
-## Best Practices for Effective Retrospectives
+## What Are Kanban or Scrum Boards?
 
-### 1. Foster a Blameless Environment
-- Demonstrate the **Scrum value of respect**.
-- Create a **safe space** where team members feel comfortable sharing feedback without fear of blame or consequences.
-- If needed, allow **anonymous or private feedback**.
+Although the **Scrum Guide** does not define a Scrum board explicitly, many Scrum tools on the market offer enhanced Kanban boards tailored for Scrum. These tools help Scrum Teams visualize and track progress during a Sprint.
 
-### 2. Encourage Participation
-- Retrospectives only work if **everyone contributes**.
-- Use prompting questions like:
-  - "What is one thing we could try next Sprint?"
-  - "Where did we encounter delays?"
-  - "What happened that we didn’t anticipate?"
-
-**Example:**  
-> My team recently realized that dependencies on external stakeholders were slowing us down. In the retrospective, we agreed to improve communication channels to increase visibility of our priorities.
-
-### 3. Balance Positives and Negatives
-- Don’t only focus on what went wrong.
-- Ask:  
-  - "Where did we succeed?"
-  - "What should we continue doing?"
-
-This builds **team morale** and helps replicate successful outcomes.
-
-### 4. Take Action
-- Teams may stop engaging if they feel feedback leads nowhere.
-- Always **act on feedback**.
-- Turn what worked into **standard habits** or **team norms**.
+### Key Features:
+1. **Visualization**
+2. **Work-in-Progress (WIP) Limits**
+3. **Flow of Work**
 
 ---
 
-## Final Thoughts
+## 1. Visualization
 
-Facilitating retrospectives—and broader team conversations—is a core responsibility of both the **Scrum Master** and **project manager**. Done right, retrospectives lead to **continuous improvement**, stronger collaboration, and better results.
+Kanban and Scrum boards allow teams to see the status of work at a glance.
 
-In the next section, we’ll explore how to ensure transparency and communication using **essential Scrum tools**. Stay tuned!
+- You can **point to work items** directly for discussion.
+- Use **color-coded cards, icons, and labels** for clarity.
+- Helps identify **challenges** and bottlenecks in the workflow.
+
+Without this kind of visibility, it’s harder to identify areas for **improvement**.
+
+---
+
+## 2. Work-In-Progress (WIP) Limits
+
+> "There's no such thing as multitasking" — especially in Scrum.
+
+- WIP limits **restrict the number of active tasks** in a given column (e.g., “Doing”).
+- Encourages **focus**—a core Scrum value.
+- Helps avoid **context switching** and **task overload**.
+- Teams set their own WIP limits based on their unique context.
+
+Boards make it visually obvious when a WIP limit is exceeded.
+
+---
+
+## 3. Flow of Work
+
+Kanban boards improve visibility into the **movement of tasks** through stages of development:
+
+Typical stages:
+- **To Do**
+- **Doing**
+- **Done**
+
+This visual flow helps teams track progress and celebrate completion. Moving tasks is often done during the **Daily Scrum**, but it can happen anytime.
+
+---
+
+## Example: Virtual Verde Team
+
+- Leo, a team member, finishes his task:  
+  _"Finalize contracts with the top three plant vendors."_
+- He moves the card from **Doing → Done** on the Kanban board.
+- If it’s his last task for the Sprint, he checks in with the team to **help others**.
+
+---
+
+## Summary
+
+**Kanban/Scrum boards** are invaluable tools that help Scrum Teams:
+
+✅ Visualize progress  
+✅ Limit and manage work-in-progress  
+✅ Improve the flow of work  
+✅ Stay aligned and collaborative  
+
+They promote Scrum values like **focus**, **transparency**, and **collaboration**.
+
+---
+
+In the next section, we’ll review **software tools** that help teams manage Scrum information effectively.
+
+Stay tuned!
