@@ -5,14 +5,7 @@
 ---
 
 ## 📂 Course Structure
-/
-├── module-1/ # Intro to Agile, Scrum basics, theory
-├── module-2/ # Product Backlog, User Stories, Estimation
-├── module-3/ # Sprint events, tools (burndown, Kanban)
-├── module-4/ # Scaling Agile, organizational adoption, coaching
-├── quiz-answers/ # Quiz questions + answers from each module
-├── glossary-of-this-course.md
-└── README.md # ← You are reading it
+<pre lang="markdown"><code> ``` 📁 Google-Agile-Project-Management/ ├── module-1/ # Intro to Agile, Scrum basics, theory ├── module-2/ # Product Backlog, User Stories, Estimation ├── module-3/ # Sprint events, tools (burndown, Kanban) ├── module-4/ # Scaling Agile, organizational adoption, coaching ├── quiz-answers/ # Quiz questions + answers from each module ├── glossary-of-this-course.md └── README.md # ← You are reading it ``` </code></pre>
 
 
 ---
