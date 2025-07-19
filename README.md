@@ -4,17 +4,41 @@
 
 ---
 
-## 📂 Course Structure
-## 📁 Google-Agile-Project-Management/
-- ├── module-1/ # Intro to Agile, Scrum basics, theory
-- ├── module-2/ # Product Backlog, User Stories, Estimation
-- ├── module-3/ # Sprint events, tools (burndown, Kanban)
-- ├── module-4/ # Scaling Agile, organizational adoption, coaching
-- ├── quiz-answers/ # Quiz questions + answers from each module
-- ├── glossary-of-this-course.md
--└── README.md # ← You are reading it
+
+## 📁 Google-Agile-Project-Management
+
+
+Each module is named and ordered for easy use:
+
+| No. | Module Title                                | Description                                                  |
+|-----|---------------------------------------------|--------------------------------------------------------------|
+| 01  | 📘 Foundations of Agile                      | Agile principles, benefits, Scrum vs Kanban                  |
+| 02  | 🗂️ Product Backlog & User Stories            | Writing user stories, backlog grooming, estimation techniques|
+| 03  | 🕒 Sprint Planning & Agile Tools             | Sprint events, Kanban boards, burndown charts                |
+| 04  | 🧭 Scaling Agile & Organizational Adoption   | Agile at scale, leadership support, coaching techniques      |
+| 05  | ❓ Quiz Answers                              | All quiz answers across modules                             |
+| 06  | 📖 Glossary                                  | Agile terms and definitions used in this course              |
+
 ---
 
+---
+## 📖 What's Inside Each Module
+
+Each module file (e.g., `01_intro_to_devops.md`) contains:
+
+- ### 📝 Theory Explanation
+  Concise and simplified explanation of concepts.
+  
+- ### 🎙️ Course Transcript
+  Written version of what the instructor says in the video.
+
+- ### 🧩 Quiz with Answers
+  End-of-module questions with correct solutions for revision.
+
+- ### 📚 Key Terminologies
+  Important keywords explained in simple language.
+
+---
 ## 🎯 Module Overview
 
 ### Module 1: Agile Foundations & Scrum Roles  
