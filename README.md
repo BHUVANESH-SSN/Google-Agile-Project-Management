@@ -1,72 +1,93 @@
-# 📘 Introduction to Agile Project Management
+# 📝 Google Agile Project Management
 
-Welcome to the **Agile Project Management** course!
-
----
-
-## 🎯 What You’ve Learned So Far
-
-Before diving into Agile, here's a quick recap of what’s been covered so far in this program:
-
-- ✅ **Foundations of project management**
-- ✅ The **project lifecycle**: Initiation, Planning, Execution, and Closing
-- ✅ Tools and techniques for planning and communication
-- ✅ How to handle **challenges, risks, and issues** during projects
-
-Whether you're continuing from previous courses or just starting, you're on the right path toward a successful career in project management.
+**An end‑to‑end guide to Agile & Scrum** based on Google's Project Management course.
 
 ---
 
-## 💡 Why Agile?
+## 📂 Course Structure
+/
+├── module-1/ # Intro to Agile, Scrum basics, theory
+├── module-2/ # Product Backlog, User Stories, Estimation
+├── module-3/ # Sprint events, tools (burndown, Kanban)
+├── module-4/ # Scaling Agile, organizational adoption, coaching
+├── quiz-answers/ # Quiz questions + answers from each module
+├── glossary-of-this-course.md
+└── README.md # ← You are reading it
 
-Now that you’ve built a strong foundation, it’s time to learn one of the **most popular and flexible approaches** to delivering projects: **Agile**.
-
-### 📌 Key Points
-
-- **Agile is not a strict methodology**  
-  → It’s a **mindset** or **philosophy** focused on delivering **customer value**.
-
-- **Agile includes many frameworks and methods** under its umbrella.  
-  → Example: **Scrum** is a popular Agile delivery framework.
-
-- Agile emphasizes:
-  - Flexibility
-  - Collaboration
-  - Continuous delivery
-  - Customer satisfaction
 
 ---
 
-## 🧭 What This Course Covers
+## 🎯 Module Overview
 
-In this Agile course, you'll learn:
+### Module 1: Agile Foundations & Scrum Roles  
+- **What is Agile?** Lean, Kanban, Scrum, DevOps, SAFe, etc.  
+- **Scrum Framework:** Three pillars (Transparency, Inspection, Adaptation), five values (Commitment, Courage, Focus, Openness, Respect), roles (Scrum Master, Product Owner, Development Team).  
+- **Videos covered:** Role definitions, real-world comparisons (Project Manager vs. Scrum Master).  
 
-- 🕰️ A **brief history of Agile**
-- 🌀 Introduction to the **Scrum framework**
-- 👥 The **core roles** in a Scrum Team
-- ✅ **Best practices** and **real-world scenarios** where Agile excels
+### Module 2: Product Backlog, User Stories & Estimation  
+- **Product Backlog:** Live artifact, prioritized list (description, value, estimate, rank).  
+- **User Stories & INVEST criteria.**  
+- **Estimation Techniques:** T-shirt sizes, Story Points (Fibonacci), Planning Poker™, Dot Voting, Bucket System, Affinity Mapping, Relative Estimation.
+
+### Module 3: Scrum Events & Tools  
+- **Sprint Event Cycle:** Sprint Planning → Daily Scrum → Sprint Review → Sprint Retrospective (time-boxes & how to run effectively).  
+- **Tools:** Burndown charts, Kanban/Scrum boards (visualization, WIP limits, flow), JIRA/Trello/Asana, Google Docs/Sheets/Slides, video conferencing tips.
+
+### Module 4: Scaling & Coaching Agile  
+- **Value Roadmaps:** Product vision, roadmap, release plans with measurable goals.  
+- **Organizational Adoption:** Change management (culture, urgency, small experiments, executive sponsorship).  
+- **Coaching Agile Teams:** Design plays, feedback loops, celebrate & learn. Overcoming challenges: unstable roadmap, incomplete Scrum, team instability.  
+- **Emerging Trends:** DevOps, Business Agility, SAFe, LeSS, Spotify Model, Agile beyond Tech.
 
 ---
 
-## 👤 About the Instructor
+## 🎓 Quiz Highlights & Answers
 
-**Sue**, Senior Technical Program Manager at **Google**.
+Module quizzes with correct answers and explanations are located in `quiz-answers/`.  
+Example from Module 3:
 
-- Works on Google’s support platform—products used for user support across Google services.
-- At Google since **2014**, focusing on **product reliability**.
-- Prior experience includes:
-  - Companies of varying sizes
-  - Projects using **Waterfall**, **Agile**, and hybrid approaches
-- Began career as a **software engineer** in cell phone technology.
-- Passionate about **program management**—where all disciplines unite to create value.
+- **Q:** What are signs your team struggles with value delivery?  
+  - ✅ Team working long hours  
+  - ✅ Tasks taking unusually long  
+  - ✅ Decline in collaboration & feedback  
+
+_Check all answers and reasoning in quiz‑answers module files._
 
 ---
 
-## ✨ Final Thoughts
+## 📘 Glossary
 
-> *"I still remember the ‘aha’ moment I had when I discovered Agile, and I’m excited to share that moment with you."* — Sue
+A full glossary of Agile & Scrum terms is in [glossary‑of‑this‑course.md](glossary-of-this-course.md).  
+Sample entries include:
 
-Get ready to explore Agile and find your own “aha” moment.
+- **Acceptance criteria:** The checklist used to decide if a story is done.  
+- **Burndown chart:** Visual of remaining vs. completed work.  
+- **I.N.V.E.S.T:** Criteria for effective user stories (Independent, Negotiable, Valuable, Estimable, Small, Testable).  
+- **Scrum Master:** Facilitator who ensures adherence to Agile values and processes.
 
-➡️ **Next up:** Agile Basics
+---
 
+## ✍️ Contributor
+
+**Bhuvanesh S**  
+Email: bhuvanesh@example.com  
+LinkedIn: [linkedin.com/in/your‑profile](https://www.linkedin.com/in/your-profile)
+
+---
+
+## ⭐ Show Your Support
+
+If this repo helped you learn Agile or structure your own study, please consider **starring** it ⭐ on GitHub—it’s a small gesture, but much appreciated!
+
+---
+
+## 🛠 How to Use
+
+1. **Explore modules** in order: 
+   - `module-1/` → `module-2/` → `module-3/` → `module-4/`
+2. Read **quizzes** and verify your understanding via `quiz-answers/`.
+3. Review **glossary** to familiarize with key terminology.
+4. Apply learnings by adapting templates or scripts to your own projects.
+
+👨‍💻 Happy Agile learning—and don’t forget to star the repo if you found it valuable!
+::contentReference[oaicite:0]{index=0}
