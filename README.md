@@ -68,8 +68,8 @@ Sample entries include:
 ## ✍️ Contributor
 
 **Bhuvanesh S**  
-Email: bhuvanesh@example.com  
-LinkedIn: [linkedin.com/in/your‑profile](https://www.linkedin.com/in/your-profile)
+Email: bhuvaneshcsessn@gmail.com
+LinkedIn: [LinkedIN](https://www.linkedin.com/bhuvanesh-cse)
 
 ---
 
@@ -88,4 +88,4 @@ If this repo helped you learn Agile or structure your own study, please consider
 4. Apply learnings by adapting templates or scripts to your own projects.
 
 👨‍💻 Happy Agile learning—and don’t forget to star the repo if you found it valuable!
-::contentReference[oaicite:0]{index=0}
+
