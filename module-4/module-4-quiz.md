@@ -131,4 +131,4 @@ Other frameworks like SAFe or LeSS use different hierarchies and terminology.
 
 ---
 
-Let me know if you want this exported as a `.md` file or converted into a printable study guide 📄!
+
